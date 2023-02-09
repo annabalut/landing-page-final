@@ -1,0 +1,23 @@
+.avatar {
+    border-radius: 100px;
+    width: 20%;
+}
+
+.width {
+    width: 25%;
+    background-color: hsl(219, 30%, 18%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 7px 7px hsl(219, 29%, 13%);
+
+}
+
+.alignement {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.space {
+    margin-left: 20px;
+}

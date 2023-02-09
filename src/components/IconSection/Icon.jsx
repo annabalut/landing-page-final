@@ -1,11 +1,13 @@
 import React from 'react'
 import styles from './Icon.module.css'
 
-const Icon = (props) => {
-  
-    return (
+const Icon = ({logo, title, description}) => {
+
+  return (
     <div>
-      <img src={props.logo} />
+      <img src={logo} />
+      <h3 className=''>{title}</h3>
+      <p>{description}</p>
     </div>
   )
 }

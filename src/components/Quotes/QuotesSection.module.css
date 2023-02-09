@@ -1,0 +1,15 @@
+.place {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+
+.position {
+    position: absolute;
+    top: -30px;
+    left: 45px;
+    z-index: -1;
+
+}

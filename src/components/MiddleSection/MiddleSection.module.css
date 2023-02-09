@@ -1,15 +1,12 @@
-.line {
-    width: 40%;
+.place {
+    width: 60%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
 
-.space {
-    margin: 20px;
+.underline {
+    color: aquamarine;
 }
-
