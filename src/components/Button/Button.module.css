@@ -1,0 +1,9 @@
+.primary {
+    background-image: linear-gradient(hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 400;
+    margin: 20px;
+}
